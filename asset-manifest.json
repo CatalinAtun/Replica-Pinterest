@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Replica-Pinterest/static/css/main.fc86ca07.chunk.css",
+    "main.js": "/Replica-Pinterest/static/js/main.ae9c0c0c.chunk.js",
+    "main.js.map": "/Replica-Pinterest/static/js/main.ae9c0c0c.chunk.js.map",
+    "runtime~main.js": "/Replica-Pinterest/static/js/runtime~main.769c0aff.js",
+    "runtime~main.js.map": "/Replica-Pinterest/static/js/runtime~main.769c0aff.js.map",
+    "static/js/2.f040f978.chunk.js": "/Replica-Pinterest/static/js/2.f040f978.chunk.js",
+    "static/js/2.f040f978.chunk.js.map": "/Replica-Pinterest/static/js/2.f040f978.chunk.js.map",
+    "index.html": "/Replica-Pinterest/index.html",
+    "precache-manifest.de70711e25ef6b681c87f07fd661a251.js": "/Replica-Pinterest/precache-manifest.de70711e25ef6b681c87f07fd661a251.js",
+    "service-worker.js": "/Replica-Pinterest/service-worker.js",
+    "static/css/main.fc86ca07.chunk.css.map": "/Replica-Pinterest/static/css/main.fc86ca07.chunk.css.map",
+    "static/media/logo.png": "/Replica-Pinterest/static/media/logo.899cd5e1.png"
+  }
+}
